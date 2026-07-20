@@ -1,0 +1,1 @@
+# dotnet_sqlite_ef_template
